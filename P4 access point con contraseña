@@ -2,7 +2,7 @@ import machine
 import network
 import time
 
-SSID= "SEbastian"
+SSID= "Sebastian"
 PASSWORD= "Karma34"
 
 ap = network.WLAN(network.AP_IF)
